@@ -1,0 +1,629 @@
+{
+    "list": [
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "о"
+                },
+                {
+                    "index": 4,
+                    "letter": "о"
+                }
+            ],
+            "word": "в_р_бей"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "о"
+                }
+            ],
+            "word": "в_рона"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "е"
+                }
+            ],
+            "word": "п_тух"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "о"
+                }
+            ],
+            "word": "с_рока"
+        },
+        {
+            "letters": [
+                "а",
+                "о",
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 4,
+                    "letter": "е"
+                },
+                {
+                    "index": 6,
+                    "letter": "о"
+                }
+            ],
+            "word": "вес_л_"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "о"
+                },
+                {
+                    "index": 4,
+                    "letter": "о"
+                }
+            ],
+            "word": "х_р_шо"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 5,
+                    "letter": "о"
+                }
+            ],
+            "word": "скор_"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 6,
+                    "letter": "о"
+                }
+            ],
+            "word": "быстр_"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "е"
+                }
+            ],
+            "word": "д_ревня"
+        },
+        {
+            "letters": [
+                "а",
+                "о",
+                "и",
+                "ы"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "а"
+                },
+                {
+                    "index": 4,
+                    "letter": "и"
+                }
+            ],
+            "word": "м_ш_на"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 4,
+                    "letter": "о"
+                }
+            ],
+            "word": "дев_чка"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 6,
+                    "letter": "и"
+                }
+            ],
+            "word": "мальч_к"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "е"
+                }
+            ],
+            "word": "р_бята"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 3,
+                    "letter": "е"
+                }
+            ],
+            "word": "уч_ник"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 3,
+                    "letter": "е"
+                }
+            ],
+            "word": "уч_ница"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 5,
+                    "letter": "е"
+                }
+            ],
+            "word": "учит_ль"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 5,
+                    "letter": "е"
+                },
+                {
+                    "index": 9,
+                    "letter": "и"
+                }
+            ],
+            "word": "учит_льн_ца"
+        },
+        {
+            "letters": [
+                "и",
+                "я",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 3,
+                    "letter": "я"
+                }
+            ],
+            "word": "за_ц"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "о"
+                }
+            ],
+            "word": "к_рова"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "и"
+                }
+            ],
+            "word": "л_сица"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "е"
+                }
+            ],
+            "word": "м_дведь"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "о"
+                }
+            ],
+            "word": "с_бака"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "е"
+                }
+            ],
+            "word": "п_нал"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "е"
+                }
+            ],
+            "word": "т_традь"
+        },
+        {
+            "letters": [
+                "и",
+                "е",
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "и"
+                },
+                {
+                    "index": 6,
+                    "letter": "о"
+                }
+            ],
+            "word": "р_сун_к"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "а"
+                },
+                {
+                    "index": 4,
+                    "letter": "а"
+                }
+            ],
+            "word": "к_р_ндаш"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "о"
+                },
+                {
+                    "index": 4,
+                    "letter": "о"
+                }
+            ],
+            "word": "м_л_ко"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 4,
+                    "letter": "о"
+                },
+                {
+                    "index": 6,
+                    "letter": "о"
+                }
+            ],
+            "word": "ябл_к_"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 3,
+                    "letter": "о"
+                }
+            ],
+            "word": "яг_да"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 4,
+                    "letter": "а"
+                }
+            ],
+            "word": "сах_р"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "а"
+                }
+            ],
+            "word": "п_льто"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "а"
+                }
+            ],
+            "word": "р_бота"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 3,
+                    "letter": "о"
+                }
+            ],
+            "word": "пр_щай"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 6,
+                    "letter": "и"
+                }
+            ],
+            "word": "до св_дания"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 4,
+                    "letter": "и"
+                },
+                {
+                    "index": 8,
+                    "letter": "и"
+                }
+            ],
+            "word": "изв_нит_"
+        },
+        {
+            "letters": [
+                "е",
+                "и"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "е"
+                }
+            ],
+            "word": "с_нтябрь"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 4,
+                    "letter": "и"
+                }
+            ],
+            "word": "Род_на"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 4,
+                    "letter": "е"
+                }
+            ],
+            "word": "вет_р"
+        },
+        {
+            "letters": [
+                "а",
+                "о",
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "и"
+                },
+                {
+                    "index": 4,
+                    "letter": "о"
+                }
+            ],
+            "word": "р_с_вать"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "е"
+                }
+            ],
+            "word": "д_журный"
+        },
+        {
+            "letters": [
+                "и",
+                "е"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "е"
+                }
+            ],
+            "word": "б_рёза"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 1,
+                    "letter": "о"
+                }
+            ],
+            "word": "_сина"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "о"
+                }
+            ],
+            "word": "л_пата"
+        },
+        {
+            "letters": [
+                "а",
+                "о"
+            ],
+            "right": [
+                {
+                    "index": 2,
+                    "letter": "о"
+                }
+            ],
+            "word": "д_рога"
+        }
+    ]
+}
